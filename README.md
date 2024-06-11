@@ -1,5 +1,4 @@
-# Sales-AnalysisRepo
-Bike Sale Analysis
+
 Bike Sales Analysis Report
 This report analyses bike sales data segmented by region, gender, age, income, commute distance, marital status and occupation. 
 Overall, bike sales increased by more than 50% in North America compared to other region, with notable variations across different demographics and regions.
